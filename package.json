@@ -1,0 +1,22 @@
+{
+  "name": "dockerdemopractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MonikaJadhav092/dockerdemopractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MonikaJadhav092/dockerdemopractice/issues"
+  },
+  "homepage": "https://github.com/MonikaJadhav092/dockerdemopractice#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
